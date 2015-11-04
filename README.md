@@ -1,10 +1,8 @@
-# jersey-client-jackson
+# gs-serving-web-content
 
 Running the Example
 ------------------
 
-Run the example as follows:
+You can run the application using mvn spring-boot:run. Or you can build the JAR file with mvn clean package and run the JAR by typing:
 
-    mvn jexec:java
-
-
+java -jar target/gs-serving-web-content-0.1.0.jar
